@@ -1,2 +1,2 @@
-# Mortality-Table-Actuarial
+# Mortality-Actuarial
 Extensive look into mortality in the USA. Models:
